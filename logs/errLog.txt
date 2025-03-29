@@ -1,0 +1,38 @@
+2025-01-25	21:51:69	2cb830e5-6904-48fa-9184-135dc7d5c21c	Error	Not Allowed by Cors
+2025-01-25	21:52:35	180ec7fc-14a1-47a7-a477-733a26823062	Error	Not Allowed by Cors
+2025-01-26	10:28:33	2b8d8bb9-dec2-4464-a1a3-c8fc0f114929	TypeError	path.join is not a function
+2025-01-26	13:03:95	b8109f1c-78c6-4cec-acd1-e782d71f1094	ReferenceError	employee is not defined
+2025-01-26	13:04:39	067ae420-130a-4d61-8e40-ed62725a5265	ReferenceError	setData is not defined
+2025-01-26	13:05:98	0ebb7f2e-af03-42d1-a070-2b5d4d36f223	ReferenceError	setData is not defined
+2025-01-26	13:21:11	cb2e3770-c4c0-4cf4-a589-6659877d46ad	SyntaxError	Expected double-quoted property name in JSON at position 46 (line 4 column 1)
+2025-01-26	13:22:38	37fe25be-16ca-420d-bec9-ffc7e1224ce5	SyntaxError	Expected double-quoted property name in JSON at position 37 (line 4 column 1)
+2025-01-26	13:23:63	704d2d66-190f-441a-bbec-75103fe51ef5	TypeError	Cannot set properties of undefined (setting 'firstname')
+2025-01-26	13:24:65	8f7faa03-223f-43db-aa3a-e95b2b644ad3	TypeError	Cannot set properties of undefined (setting 'firstname')
+2025-01-26	13:25:04	1993187b-bc61-4c0a-b667-5cad0dbfd09b	TypeError	Cannot set properties of undefined (setting 'firstname')
+2025-01-26	13:26:22	350f1974-a5eb-4dff-a3be-dfb4b980519f	TypeError	Assignment to constant variable.
+2025-01-26	13:29:97	2c356ece-2490-4c76-8454-61048fc2ad6e	SyntaxError	Expected double-quoted property name in JSON at position 16 (line 3 column 1)
+2025-02-27	21:14:01	69dc0e32-8725-45fd-9b08-cb5cc89c306f	Error	Cannot set headers after they are sent to the client
+2025-02-27	21:15:75	98f2b191-8551-4739-b251-5f757dfb7ce6	Error	Cannot set headers after they are sent to the client
+2025-03-01	22:47:55	0800de06-e197-42ac-ae9a-e5cc63a40440	Error	Cannot set headers after they are sent to the client
+2025-03-23	21:11:38	1ed0c4a1-26b4-494d-8c7f-7e07a54429c4	Error	Cannot set headers after they are sent to the client
+2025-03-23	22:25:36	3ded3823-b094-49a7-9a79-748a44389291	Error	Cannot set headers after they are sent to the client
+2025-03-29	13:30:30	32b2b52e-8aec-4b84-907a-8db532578d4b	ReferenceError	allwedRoles is not defined
+2025-03-29	13:33:97	7ceac7be-5e4b-4c8c-8d54-2882c9c3bfda	ReferenceError	allwedRoles is not defined
+2025-03-29	13:42:06	99fd9dfe-f29d-43ba-b355-f400d1bbd837	ReferenceError	allwedRoles is not defined
+2025-03-29	13:45:71	6539b2ab-2538-4e7c-898b-9975c27bbbfc	Error	Cannot set headers after they are sent to the client
+2025-03-29	13:53:31	b3a93b37-cb5c-406c-b247-b2612d7de723	Error	Cannot set headers after they are sent to the client
+2025-03-29	13:54:35	73686d4f-7766-4e3e-bbf9-07ae54899bf7	Error	Cannot set headers after they are sent to the client
+2025-03-29	13:59:10	cd035652-a45b-440f-9847-740108ea181e	Error	Cannot set headers after they are sent to the client
+2025-03-29	13:59:96	749208a6-7c53-419e-91e0-918bc79471b3	Error	Cannot set headers after they are sent to the client
+2025-03-29	14:04:18	bb0115e7-4d94-454e-8a42-b28f1850cbe5	Error	Cannot set headers after they are sent to the client
+2025-03-29	14:07:03	7e057f30-6ec5-419e-9121-4f2031f39d65	Error	Cannot set headers after they are sent to the client
+2025-03-29	14:08:00	ea7beeee-6f6c-43af-92ef-c48c39600e19	Error	Cannot set headers after they are sent to the client
+2025-03-29	14:09:70	2960c761-3ec1-4ef7-9ede-1b73b608e9ee	Error	Cannot set headers after they are sent to the client
+2025-03-29	14:11:61	1332a18f-0a99-4704-8753-57dd188f19d2	Error	Cannot set headers after they are sent to the client
+2025-03-29	14:13:12	9e0a174f-480f-4046-835b-6f90274d3d90	Error	Cannot set headers after they are sent to the client
+2025-03-29	14:14:55	90d6975a-a353-48fc-878c-97dc661e082e	Error	Cannot set headers after they are sent to the client
+2025-03-29	17:59:89	d5c29b70-7587-4541-9026-405d79b9f47c	Error	Cannot set headers after they are sent to the client
+2025-03-29	19:29:56	271f80e2-853f-4056-8bbd-2321a319ef2e	SyntaxError	Unexpected token '}', ..."me":
+    }" is not valid JSON
+2025-03-29	19:30:61	267671cd-c0b9-4832-b576-7c0c1aa8eac6	SyntaxError	Unexpected token '}', ..."me":
+    }" is not valid JSON
