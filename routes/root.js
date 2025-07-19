@@ -4,7 +4,6 @@ const path=require('path')
 
 
 router.get('^/$|/index(.html)?',(req,res)=>{
-    console.log("hu");
     res.sendFile(path.join(__dirname,'..','views','index.html'))
  //res.sendFile('./views/index.html',{root:__dirname})
  })

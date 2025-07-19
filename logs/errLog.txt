@@ -36,3 +36,25 @@
     }" is not valid JSON
 2025-03-29	19:30:61	267671cd-c0b9-4832-b576-7c0c1aa8eac6	SyntaxError	Unexpected token '}', ..."me":
     }" is not valid JSON
+2025-07-08	23:10:03	98c89253-8781-44ce-ac7f-74aebefe9464	SyntaxError	Expected property name or '}' in JSON at position 6 (line 2 column 4)
+2025-07-09	01:06:23	f75168ac-6301-481c-9d2d-20655fa49d52	Error	Not Allowed by Cors
+2025-07-09	01:08:09	396e8e57-a3c5-4985-94c3-b1a47cbc73db	Error	Not Allowed by Cors
+2025-07-09	01:08:10	199de249-df56-452f-b9bc-cf9519ccbdfb	Error	Not Allowed by Cors
+2025-07-09	01:09:43	f52a39e0-377d-4c86-85a0-9633ab0526e7	Error	Not Allowed by Cors
+2025-07-09	01:09:44	07d1df2c-2ba8-4acb-a0de-7ce91d910aa4	Error	Not Allowed by Cors
+2025-07-09	01:09:69	a2a1429e-ba90-4196-8a83-6d9dbfaf275d	Error	Not Allowed by Cors
+2025-07-09	01:09:70	ef9305e1-273a-4287-8515-43a4dc2684dc	Error	Not Allowed by Cors
+2025-07-09	01:09:58	1d280fee-eac0-4294-93db-f028c6b7bf08	Error	Not Allowed by Cors
+2025-07-09	01:09:58	3d3fd8ba-fdc8-4105-9a86-e9efca46f4bd	Error	Not Allowed by Cors
+2025-07-09	01:10:15	40c2cbac-6470-422a-8a81-c187c7b8699c	Error	Not Allowed by Cors
+2025-07-09	01:10:16	1b639909-6eff-4056-be80-ffd6f6e49223	Error	Not Allowed by Cors
+2025-07-09	01:10:30	06572855-8a5f-4304-b82e-a3f3b06fa1d9	Error	Not Allowed by Cors
+2025-07-09	01:10:30	fb72a0c7-3bfd-4e7b-a812-576cda6cf40c	Error	Not Allowed by Cors
+2025-07-09	01:10:90	8eb6de0a-3448-4dbf-9c68-1776ba4a6caf	Error	Not Allowed by Cors
+2025-07-09	01:10:90	d626d80f-21c6-4a92-befd-d2b641857b8d	Error	Not Allowed by Cors
+2025-07-09	01:10:11	d0503b9e-b993-4545-b286-8a1665c353c0	Error	Not Allowed by Cors
+2025-07-09	01:10:11	213c6d89-9392-400b-9535-22fa4c285a7c	Error	Not Allowed by Cors
+2025-07-09	01:10:32	024f64ae-3f1c-4c95-a6d8-c0835fb6f853	Error	Not Allowed by Cors
+2025-07-09	01:10:32	22c9c839-cbfb-4559-9ddc-e2cbbaa27d88	Error	Not Allowed by Cors
+2025-07-09	01:10:68	70a14524-5063-4e2b-b838-8efec2d58b84	Error	Not Allowed by Cors
+2025-07-09	01:10:68	3c972d54-d844-4f27-af9b-0719638a6b96	Error	Not Allowed by Cors
